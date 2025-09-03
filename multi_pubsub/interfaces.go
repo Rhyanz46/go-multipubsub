@@ -1,4 +1,4 @@
-package pubsub
+package multi_pubsub
 
 import (
 	"encoding/json"
